@@ -1,1 +1,1 @@
-![Cover](https://github.com/calsuoile/calsuoile/blob/main/img/lines.jpg)
+![Cover](https://github.com/calsuoile/calsuoile/blob/main/img/lines.png)
